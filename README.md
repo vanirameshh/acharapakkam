@@ -1,2 +1,0 @@
-# acharapakkam
-website for acharapakkam
